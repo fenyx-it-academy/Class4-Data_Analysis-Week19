@@ -19,6 +19,8 @@ __Values:__ Random
 __Result:__
 ![alt text](img/1.png 'result')
 
+Tip: you can use the .unique() method to get unique values. For example;
+df.Survived.unique().
 
 ### 2. Pivot:
 
