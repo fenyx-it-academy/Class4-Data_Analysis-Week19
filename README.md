@@ -17,7 +17,7 @@ __Columns:__
 __Values:__ Random
 
 __Result:__
-[! alt text] (1.png) 
+![alt text](1.png 'result')
 
 
 ### 2. Pivot:
@@ -33,7 +33,7 @@ __Column:__ Ticket
 __Values:__ Age
 
 __Result:__
-[! alt text] (2.png) 
+![alt text](2.png 'result')
 
 __Tip__: Use iloc[:10] for the first 10 row
 
@@ -45,7 +45,7 @@ __Data:__ Task 1
 __Task:__ Manipulate the table you obtained in the 1st task with the stack and unstack methods
 
 __Result:__
-[! alt text] (3.png) 
+![alt text](3.png 'result')
 
 
 ### 4. Melt:
@@ -59,7 +59,7 @@ __Id_vars:__ 'Name' and 'Embarked'
 __Value_vars:__ 'Sex' and 'Age'
 
 __Result:__
-[! alt text] (4.png) 
+![alt text](4.png 'result')
 
 __Tip__: Use iloc[:10] for the first 10 row
 
@@ -83,5 +83,5 @@ __aggfunc:__
 * C) 'Fare': mean and np.sum, 'Age': np.median and np.std
 
 __Result:__
-[! alt text] (5-1.png) 
-[! alt text] (5-2.png) 
+![alt text](5-1.png 'result')
+![alt text](5-2.png 'result') 
