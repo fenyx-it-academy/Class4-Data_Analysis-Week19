@@ -83,5 +83,5 @@ __aggfunc:__
 * C) 'Fare': mean and np.sum, 'Age': np.median and np.std
 
 __Result:__
-![alt text](5-img/1.png 'result')
-![alt text](5-img/2.png 'result') 
+![alt text](img/5-1.png 'result')
+![alt text](img/5-2.png 'result') 
