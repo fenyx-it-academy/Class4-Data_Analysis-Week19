@@ -11,7 +11,7 @@ __Indexes:__
 * level_1 = Embarked
 
 __Columns:__
-*  level_0 = Sex
+*  level_0 = Pclass
 *  level_1 = Survived
 
 __Values:__ Random
